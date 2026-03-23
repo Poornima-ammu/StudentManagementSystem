@@ -66,5 +66,3 @@ This project demonstrates the evolution from a simple approach using ArrayList t
 
 ---
 
-## 👨‍💻 Author
-Your Name
